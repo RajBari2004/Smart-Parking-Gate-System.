@@ -1,4 +1,4 @@
-# B.Tech Smart Automated Parking & Gate Management System
+# Smart Automated Parking & Gate Management System
 
 An edge-AI automated parking management infrastructure built for final-year evaluation. The system captures live video traffic from an edge node, streams frames across a local wireless network, extracts vehicle alphanumeric indexing metrics via deep-learning computer vision models, updates a web transaction logging panel, and drives physical mechanical gate isolation relays.
 
