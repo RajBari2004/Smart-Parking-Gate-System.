@@ -1,0 +1,5 @@
+yolov8n.pt
+yolov8n/
+__pycache__/
+*.pkl
+text
